@@ -9,6 +9,9 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^14.0.0",
+    "@testing-library/user-event": "^14.4.3",
     "aos": "^2.3.4",
     "emailjs-com": "^3.2.0",
     "eslint": "8.39.0",
